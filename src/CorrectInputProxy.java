@@ -3,6 +3,9 @@ import java.util.Scanner;
  * Created by jlaba on 25.12.2016.
  */
 public class CorrectInputProxy extends ICorrectInput {
+    /**
+     * Main program class which check if customer a robot or not
+     */
     String secretWord = "Flower";
 
     public void Сorrectness(){
